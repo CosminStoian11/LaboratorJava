@@ -1,8 +1,9 @@
 # LaboratorJava
 Project name: LibOnline
+
 Author: Stoian Cosmin-Ionut 405BDTS
 
-This project contains a website for an online library called LibOnline which will facilitate ordering of books for reading enthusiasts.
+This project contains a website for an online library called LibOnline which will facilitate the ordering of books for reading enthusiasts.
 
 The 10 business requirements are as follows:
 
@@ -16,9 +17,9 @@ The 10 business requirements are as follows:
 
 3.The client can write reviews 
 
--on every book page there is a review section submited by customers
+-on every book page there is a review section submitted by customers
 
-4.The cient wants to have a list of the most popular books on the website
+4.The client wants to have a list of the most popular books on the website
 
 -the main page of the website will host the most popular books by the number of sold copies
 
@@ -34,9 +35,9 @@ The 10 business requirements are as follows:
 
 -the "cart" page also has a submit button
 
-7.The website should store all the data in a databse
+7.The client can change his/her account username and password
 
--there will be a databse created to store the data of the website such as customer's account, orders, the stock of the books etc.
+-there will be the option to change the username and password for every account created
 
 8.The client can see the history search on the website
 
