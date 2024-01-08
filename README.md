@@ -43,9 +43,11 @@ The 10 business requirements are as follows:
 
 -the administrator can add books and also delete books
 
-8.The client can see the history search on the website
+8.The books need to be in a category
 
--the customer can see the last 3 searches on the website's searchbar
+-every book has to be in a category
+
+-the category can be updated or deleted
 
 9.The client can filter the books by author or category
 
