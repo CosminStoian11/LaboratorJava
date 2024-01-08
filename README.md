@@ -7,9 +7,10 @@ This project contains a website for an online library called LibOnline which wil
 
 The 10 business requirements are as follows:
 
-1.The client can create an account
+1.The application has a field of customers in its data base
 
--the user must provide an username, password and email adress
+-the customer must have an name, email adress and the address
+-the address filed must contain the street, postal code, city, country and the delivery instructions
 
 2.The client can create a wishlist
 
