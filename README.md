@@ -13,6 +13,8 @@ The 10 business requirements are as follows:
 
 -the address filed must contain the street, postal code, city, country and the delivery instructions
 
+-the address and also the cutomer can be updated
+
 2.The customer can create a wishlist
 
 -the customer can add books to the wishlist
@@ -35,7 +37,7 @@ The 10 business requirements are as follows:
 
 -the order has the books and the quantity and also the total payment and 
 
--the "cart" page also has a submit button
+-the orders can be updated or canceled (deleted)
 
 7.The administrator of the application can add or remove books
 
