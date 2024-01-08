@@ -10,13 +10,14 @@ The 10 business requirements are as follows:
 1.The application has a field of customers in its data base
 
 -the customer must have an name, email adress and the address
+
 -the address filed must contain the street, postal code, city, country and the delivery instructions
 
-2.The client can create a wishlist
+2.The customer can create a wishlist
 
--the client can add books to the wishlist
+-the customer can add books to the wishlist
 
-3.The client can write reviews 
+3.The customer can write reviews 
 
 -on every book page there is a review section submitted by customers
 
@@ -28,17 +29,17 @@ The 10 business requirements are as follows:
 
 -on top of the page a search bar will be implemented
 
-6.The client wants to order books
+6.The customer wants to order books
 
--on every book there is an "add to cart" button 
+-the application will have an Order entity that can be used to order books
 
--on the "cart" page the customer can introduce the adress and method of payment
+-the order has the books and the quantity and also the total payment and 
 
 -the "cart" page also has a submit button
 
-7.The client can change his/her account username and password
+7.The administrator of the application can add or remove books
 
--there will be the option to change the username and password for every account created
+-the administrator can add books and also delete books
 
 8.The client can see the history search on the website
 
